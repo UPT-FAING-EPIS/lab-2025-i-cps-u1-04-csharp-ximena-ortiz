@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Domain", "ATM.Domain\ATM.Domain.csproj", "{307B3A18-46F7-444B-BA78-64FD2DE6D7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM.Domain.Tests", "ATM.Domain.Tests\ATM.Domain.Tests.csproj", "{A25A998D-6277-44B2-AB16-5A3D55897C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307B3A18-46F7-444B-BA78-64FD2DE6D7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307B3A18-46F7-444B-BA78-64FD2DE6D7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307B3A18-46F7-444B-BA78-64FD2DE6D7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307B3A18-46F7-444B-BA78-64FD2DE6D7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25A998D-6277-44B2-AB16-5A3D55897C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25A998D-6277-44B2-AB16-5A3D55897C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25A998D-6277-44B2-AB16-5A3D55897C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25A998D-6277-44B2-AB16-5A3D55897C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

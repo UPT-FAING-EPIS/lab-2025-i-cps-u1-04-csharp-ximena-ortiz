@@ -1,0 +1,3 @@
+class ConcreteObserver {
+    +Update()
+}

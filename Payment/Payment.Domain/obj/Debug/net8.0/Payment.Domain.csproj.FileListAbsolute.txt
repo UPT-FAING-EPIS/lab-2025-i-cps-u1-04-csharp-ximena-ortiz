@@ -1,0 +1,12 @@
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\bin\Debug\net8.0\Payment.Domain.deps.json
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\bin\Debug\net8.0\Payment.Domain.dll
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\bin\Debug\net8.0\Payment.Domain.pdb
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfoInputs.cache
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfo.cs
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.CoreCompileInputs.cache
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.sourcelink.json
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.dll
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
+F:\XimeOficial\Patrones\lab-2025-i-cps-u1-04-csharp-ximena-ortiz\Payment\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll
